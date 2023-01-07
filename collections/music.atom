@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/music.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-12-02T12:40:42-08:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7144817590479</id>
+    <published>2022-12-02T12:40:42-08:00</published>
+    <updated>2022-12-02T12:40:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vinyl-lovers-duo-set"/>
+    <title>Vinyl Lovers Duo</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/VinylLoversBundle.jpg?v=1669998878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curated by Seth and Evan, this set features our bestselling Vinyl Box Set Vol. 1 and our new Houseparty Double LP. It's <meta charset="utf-8"><span data-mce-fragment="1">5 vinyl LPs with a custom felt slipmat and</span> <meta charset="utf-8"><span data-mce-fragment="1">173 minutes of smooth ass shit. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7144817590479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>VINYLOVERSDUO</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7140795318479</id>
+    <published>2022-11-25T07:42:57-08:00</published>
+    <updated>2022-11-25T07:42:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/houseparty-double-lp"/>
+    <title>Houseparty Double LP</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.22_Productoncream2_2048_8147c885-e034-4520-97d1-a89a1c0f5bb4.jpg?v=1669228297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A double-LP of Houseparty music curated by Seth &amp; Evan to help you throw an epic party this holiday season, or any season. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: matchbox-set</s:tag>
+    <s:tag>Badge Background Color: #03b8a6</s:tag>
+    <s:tag>Badge Font Color: #f4f1e0</s:tag>
+    <s:tag>related: at-home-music-set</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7140795318479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HP22_VNYL_2LP_PARTY</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7086253899983</id>
+    <published>2022-08-25T11:22:31-07:00</published>
+    <updated>2022-08-25T11:22:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/houseplant-pro-ject-hpt1-phono-bt-record-player"/>
+    <title>Houseplant HP1 Phono BT Record Player by Pro-Ject</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/recordplayerV2hero.png?v=1661811121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">For the record, we love this record player. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>related: weight-lamp</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7086253899983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>HP21_RCD_PLYR_MULTI</s:sku>
+      <s:grams>3797</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818031960271</id>
+    <published>2021-11-16T11:05:08-08:00</published>
+    <updated>2021-11-16T11:05:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vinyl-box-set"/>
+    <title>Vinyl Box Set Vol. 1</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/VinylBoxSetVol.1HERO_1.png?v=1647924418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 vinyl records, each a unique playlist curated by Seth and Evan to pair different strains with the perfect mood.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>related: oil-lamp</s:tag>
+    <s:tag>related: pebble-match-strike</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818031960271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>HP20_VNYL_BX_ST</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+</feed>

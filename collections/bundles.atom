@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/bundles.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-12-02T12:50:59-08:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7144817787087</id>
+    <published>2022-12-02T12:50:59-08:00</published>
+    <updated>2022-12-02T12:50:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/at-home-music-set"/>
+    <title>At Home Music Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/AtHomeMusicBundle_069d5269-ca7c-4a4f-a54d-9b6043511f9e.jpg?v=1670267713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" class="p1">A record player and records to play on that player.</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">This bundle includes Houseplant HP1 Phono BT Record Player by Pro-Ject, </span>bestselling <span data-mce-fragment="1">Vinyl Box Set Vol. 1 and our new Houseparty Double LP.  It's </span><span data-mce-fragment="1">173 minutes of smooth ass shit. </span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7144817787087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku>ATHOMEMUSIC</s:sku>
+      <s:grams>5838</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7144817590479</id>
+    <published>2022-12-02T12:40:42-08:00</published>
+    <updated>2022-12-02T12:40:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vinyl-lovers-duo-set"/>
+    <title>Vinyl Lovers Duo</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/VinylLoversBundle.jpg?v=1669998878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curated by Seth and Evan, this set features our bestselling Vinyl Box Set Vol. 1 and our new Houseparty Double LP. It's <meta charset="utf-8"><span data-mce-fragment="1">5 vinyl LPs with a custom felt slipmat and</span> <meta charset="utf-8"><span data-mce-fragment="1">173 minutes of smooth ass shit. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7144817590479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>VINYLOVERSDUO</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7144818442447</id>
+    <published>2022-12-02T12:31:00-08:00</published>
+    <updated>2022-12-02T12:31:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/for-the-nightstand"/>
+    <title>For The Nightstand</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/NightstandV2.jpg?v=1669933950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            193.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Will get more use on your nightstand than that book you’re “reading.” </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7144818442447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">193.50</s:price>
+      <s:sku>FORTHENIGHTSTAND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7144818081999</id>
+    <published>2022-12-02T11:02:17-08:00</published>
+    <updated>2022-12-02T11:02:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/on-the-go-kit"/>
+    <title>On-The-Go Kit</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/OntheGoV1.jpg?v=1669933936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            261.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Featuring e<span data-mce-fragment="1">verything you need to smoke in one sleek aluminum cylinder that is stored in an even sleeker leather case. <meta charset="utf-8">For people who are on the go and people who are on the couch but like to be organized.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7144818081999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">261.00</s:price>
+      <s:sku>ONTHEGO</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7132685238479</id>
+    <published>2022-11-11T13:38:38-08:00</published>
+    <updated>2022-11-11T13:38:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/lavender-gold-curvy-set"/>
+    <title>Lavender &amp; Gold Curvy Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/CurvyBundlePurple_2048.jpg?v=1668216772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A swervey, curvy tray and ashtray. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: green-curvy-set</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7132685238479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>CURVYSET_LAV</s:sku>
+      <s:grams>4377</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7122461819087</id>
+    <published>2022-10-24T12:48:10-07:00</published>
+    <updated>2022-10-24T12:48:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/green-curvy-set"/>
+    <title>Green Curvy Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/CurvyBundle.jpg?v=1666910827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A swervey, curvy tray and ashtray. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7122461819087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>CURVYSET</s:sku>
+      <s:grams>4377</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7122461130959</id>
+    <published>2022-10-24T12:48:09-07:00</published>
+    <updated>2022-10-24T12:48:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vinyl-lover-set"/>
+    <title>Vinyl Lover Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/MusicloversBundle.jpg?v=1666236667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            580.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A record player and records to play on that player. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>related: accessory-pack-blue</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7122461130959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">580.50</s:price>
+      <s:sku>VINYLLOVERSET</s:sku>
+      <s:grams>4931</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7121068785871</id>
+    <published>2022-10-24T12:48:08-07:00</published>
+    <updated>2022-10-24T12:48:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/housewarming-essentials"/>
+    <title>Housewarming Essentials by Seth</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/HousewarmingBundle_1.jpg?v=1666129498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            266.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A set by Seth which is easier to type than it is to say.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: standing-ashtray</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121068785871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">266.50</s:price>
+      <s:sku>HWESSENTIALS</s:sku>
+      <s:grams>3561</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7119536259279</id>
+    <published>2022-10-24T12:48:08-07:00</published>
+    <updated>2022-10-24T12:48:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/starter-kit"/>
+    <title>Starter Kit</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/StarterBundle_MobileFix.jpg?v=1666721142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            295.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">A very important collection for people who smoke, given that rolling, light and ashing are three of the most important steps in smoking. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: carry-case</s:tag>
+    <s:tag>related: curvy-tray</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7119536259279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">295.50</s:price>
+      <s:sku>STARTERKIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

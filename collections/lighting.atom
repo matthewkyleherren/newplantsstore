@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/lighting.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-06-16T08:01:32-07:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7051587125455</id>
+    <published>2022-06-16T08:01:32-07:00</published>
+    <updated>2022-06-16T08:01:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/stack-lantern-ashtray-olive-green"/>
+    <title>Stack Lantern Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ClearanceBadges3.jpg?v=1670871564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A highly-portable light with a built-in ashtray, like most of the other lights we make.</span></p>
+<p><span style="font-weight: 400;">Take it for a walk-and-talk with a friend, or hunker down on a lawn chair and set it down beside you. Wherever you’re going, the Stack Lantern is there for you. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #f4f1e0</s:tag>
+    <s:tag>badge: last chance</s:tag>
+    <s:tag>lounge</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: carry-case</s:tag>
+    <s:tag>related: planter-by-seth</s:tag>
+    <s:tag>related: vase-by-seth</s:tag>
+    <s:tag>social</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7051587125455</id>
+      <title>olive green</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>HP22_STKLNTRN_GRN_KIT</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7051587125455</id>
+      <title>sky blue</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>HP22_STKLNTRN_BLU_KIT</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7046426394831</id>
+    <published>2022-06-16T08:00:10-07:00</published>
+    <updated>2022-06-16T08:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/weight-lamp"/>
+    <title>Weight Lamp Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/Untitled-9.jpg?v=1654211966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            168.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Harnessing the power of gravity to make a lamp that goes up and down. <br></p>
+<p data-mce-fragment="1"><meta charset="utf-8">It's just the lamp you’ve been weighting for. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: stack-lantern-ashtray-olive-green</s:tag>
+    <s:tag>related: strut-lamp-aluminum</s:tag>
+    <s:tag>warm</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7046426394831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>HP22_WTLMP_GRY_KIT</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6918711115983</id>
+    <published>2022-05-17T15:39:49-07:00</published>
+    <updated>2022-05-17T15:39:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/oil-lamp-in-white"/>
+    <title>Oil Lamp in White</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ClearanceBadges6.jpg?v=1670962876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">What's better than a beautiful slab of marble? One with a built-in oil lamp, an ashtray, and a small surface to light matches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #f4f1e0</s:tag>
+    <s:tag>badge: last chance</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>Related: glass-and-cork-ashtray</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6918711115983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>HP21_OILLAMP_WHT_KIT</s:sku>
+      <s:grams>2994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818032091343</id>
+    <published>2022-05-17T15:38:44-07:00</published>
+    <updated>2022-05-17T15:38:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/oil-lamp"/>
+    <title>Oil Lamp in Green</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/oil_lamp.jpg?v=1635960086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">What's better than a beautiful slab of marble? One with a built-in oil lamp, an ashtray, and a small surface to light matches.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>bundle:greenmarble</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>related: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818032091343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>HP21OILLAMP_KIT</s:sku>
+      <s:grams>2994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7029050048719</id>
+    <published>2022-04-20T12:25:05-07:00</published>
+    <updated>2022-04-20T12:25:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/strut-lamp-aluminum"/>
+    <title>Strut Lamp Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/strutaluminium.jpg?v=1660775682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lamp and an ashtray finally form the union that’s been destined for eternity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>related: weight-lamp</s:tag>
+    <s:tag>returning</s:tag>
+    <s:tag>split_variant</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7029050048719</id>
+      <title>Aluminum</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21STRTLMP_NTRL_KIT</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7029050048719</id>
+      <title>Black</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21STRTLMP_BLK_KIT</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

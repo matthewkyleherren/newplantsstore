@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/concrete-cat.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-11-10T08:48:35-08:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7130916815055</id>
+    <published>2022-11-10T08:48:35-08:00</published>
+    <updated>2022-11-10T08:48:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/curvy-ashtray-in-lavender-and-gold"/>
+    <title>Curvy Ashtray in Lavender &amp; Gold</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/CurvyAshtrayLavender.png?v=1668034339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">The curve is the word. The ashtray is the other word. </span></p>
+<p>Now available in lavender and gold.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #03b8a6</s:tag>
+    <s:tag>Badge Font Color: #ffef9c</s:tag>
+    <s:tag>Badge: New!</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: curvy-tray</s:tag>
+    <s:tag>Related: curvy-tray-in-lavender-and-gold</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7130916815055</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP22_CURVYASH_LAV</s:sku>
+      <s:grams>1429</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7130916946127</id>
+    <published>2022-11-10T08:48:17-08:00</published>
+    <updated>2022-11-10T08:48:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/curvy-tray-in-lavender-and-gold"/>
+    <title>Curvy Tray in Lavender &amp; Gold</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/curvytraylavender_d7672cb5-81aa-425f-aa71-4ae9354fcbc4.png?v=1668034323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A swervey, curvy tray. Now available in lavender and gold.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #03b8a6</s:tag>
+    <s:tag>Badge Font Color: #ffef9c</s:tag>
+    <s:tag>Badge: New!</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: curvy-ashtray-in-lavender-and-gold</s:tag>
+    <s:tag>related: curvy-tray</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7130916946127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>HP22_CURVYTRAY_LAV</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7100333621455</id>
+    <published>2022-10-10T10:30:12-07:00</published>
+    <updated>2022-10-10T10:30:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/curvy-ashtray"/>
+    <title>Curvy Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/greencurvyashtray.png?v=1663091977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;">The curve is the word. The ashtray is the other word. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle:greencurvy</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: curvy-tray</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7100333621455</id>
+      <title>Green</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP22_CURYVASH_GR</s:sku>
+      <s:grams>1429</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7100333621455</id>
+      <title>Lavender/Gold</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP22_CURVYASH_LAV</s:sku>
+      <s:grams>1429</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7099659878607</id>
+    <published>2022-09-23T11:15:46-07:00</published>
+    <updated>2022-09-23T11:15:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/curvy-tray"/>
+    <title>Curvy Tray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/curvytraygreen.png?v=1663091639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A swervey, curvy tray. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>Badge Background Color: #03b8a6</s:tag>
+    <s:tag>Badge Font Color: #ffef9c</s:tag>
+    <s:tag>bundle:greencurvy</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7099659878607</id>
+      <title>Green</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>HP22_CURVYTRAY_GR</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7099659878607</id>
+      <title>Lavender/Gold</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>HP22_CURVYTRAY_LAV</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/sale.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-06-16T08:00:10-07:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7046426394831</id>
+    <published>2022-06-16T08:00:10-07:00</published>
+    <updated>2022-06-16T08:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/weight-lamp"/>
+    <title>Weight Lamp Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/Untitled-9.jpg?v=1654211966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            168.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Harnessing the power of gravity to make a lamp that goes up and down. <br></p>
+<p data-mce-fragment="1"><meta charset="utf-8">It's just the lamp you’ve been weighting for. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: stack-lantern-ashtray-olive-green</s:tag>
+    <s:tag>related: strut-lamp-aluminum</s:tag>
+    <s:tag>warm</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7046426394831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">168.00</s:price>
+      <s:sku>HP22_WTLMP_GRY_KIT</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7043827368143</id>
+    <published>2022-05-25T17:28:41-07:00</published>
+    <updated>2022-05-25T17:28:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ani-kasten-crashtray"/>
+    <title>Crashtray</title>
+    <s:type>Office Supplies</s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/crash4.jpg?v=1654191813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong>Office Supplies<br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Designed by Ani Kasten. </span></p>
+<p><span style="font-weight: 400;">Where functions meets a very different kind of form.</span></p>
+<p><span style="font-weight: 400;">This limited edition Crashtray is a sculptural and functional piece intended as a handmade, contemplative object for use and enjoyment in the home.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>indoor</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ani-kasten-stash-box</s:tag>
+    <s:tag>Related: ani-kasten-trippy-cups-set-of-2</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043827368143</id>
+      <title>Crash Purple</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>HP21_ANI_CRASH_PRP</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043827368143</id>
+      <title>Crash Black</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>HP21_ANI_CRASH_BLK</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043827368143</id>
+      <title>Crash Green</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>HP21_ANI_CRASH_GRN</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7043826843855</id>
+    <published>2022-05-24T21:30:05-07:00</published>
+    <updated>2022-05-24T21:30:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ani-kasten-trippy-cups-set-of-2"/>
+    <title>Trippy Cups (Set of 2)</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/trippycups2.jpg?v=1654275261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Designed by Ani Kasten. </span></p>
+<p><span style="font-weight: 400;">A pair of cups designed by artist Ani Kasten? We’ll drink to that.</span></p>
+<p><span style="font-weight: 400;">This Trippy Cup features Ani’s most psychedelic of glaze combinations and is meant to highlight the sensuous aspects of ceramics in a small, hand-held object.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>related: ani-kasten-stash-box</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043826843855</id>
+      <title>Trippy Blue</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>HP21_ANI_BUNDLE_BLU</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043826843855</id>
+      <title>Trippy Purple</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku>HP21_ANI_BUNDLE_PRP</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7043798663375</id>
+    <published>2022-05-24T21:30:04-07:00</published>
+    <updated>2022-05-24T21:30:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ani-kasten-stash-box"/>
+    <title>Stash Box</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/AniKastenStashJar32840x2840.jpg?v=1659736606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><meta charset="utf-8"> <span>Designed by Ani Kasten.</span></span></p>
+<p><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">A treasured object to keep your treasured objects safely hidden.</span></p>
+<p>This exclusive edition Stash Box is like a constellation of bright, unearthed rock chunks from a far-off planet—textures and layers of glazed sediment inviting touch and investigation. <br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>Related: ani-kasten-trippy-cups-set-of-2</s:tag>
+    <s:tag>related: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>related: pebble-match-strike</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043798663375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">148.00</s:price>
+      <s:sku>HP21_ANI_STASH_BLU</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7029050048719</id>
+    <published>2022-04-20T12:25:05-07:00</published>
+    <updated>2022-04-20T12:25:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/strut-lamp-aluminum"/>
+    <title>Strut Lamp Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/strutaluminium.jpg?v=1660775682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lamp and an ashtray finally form the union that’s been destined for eternity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>related: weight-lamp</s:tag>
+    <s:tag>returning</s:tag>
+    <s:tag>split_variant</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7029050048719</id>
+      <title>Aluminum</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21STRTLMP_NTRL_KIT</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7029050048719</id>
+      <title>Black</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21STRTLMP_BLK_KIT</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6915057352911</id>
+    <published>2021-11-16T10:50:26-08:00</published>
+    <updated>2021-11-16T10:50:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/glass-and-cork-ashtray"/>
+    <title>Glass &amp; Cork Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/MelanieAbrantes3_4_DSC00050.png?v=1647924213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            108.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 15">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>A hand-blown, bright orange glass ashtray inside of a handmade cork holder.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hidden</s:tag>
+    <s:tag>limited_2</s:tag>
+    <s:tag>lounge</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: carry-case</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: large-striking-match-bundle</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6915057352911</id>
+      <title>Default Title</title>
+      <s:price currency="USD">108.00</s:price>
+      <s:sku>HP21_MELANIE_ORG</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6915040116943</id>
+    <published>2021-11-16T09:41:29-08:00</published>
+    <updated>2021-11-16T09:41:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/stadium-ashtray"/>
+    <title>Stadium Ashtray</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/DSC05319.png?v=1647924380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff6429;"><strong></strong></span>This limited-edition ashtray is crafted from resin and designed with an ombre-like color scheme in two gorgeous hues.</p>
+<p>25% off while supplies last! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #f4f1e0</s:tag>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_2</s:tag>
+    <s:tag>lounge</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-2-0-by-seth</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>Related: glass-and-cork-ashtray</s:tag>
+    <s:tag>split_variant</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6915040116943</id>
+      <title>Green</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21_FACTURE_GR</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6915040116943</id>
+      <title>Orange</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>HP21_FACTURE_OR</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>

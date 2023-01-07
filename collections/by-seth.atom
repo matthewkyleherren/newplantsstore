@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/by-seth.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-12-10T09:16:42-08:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/6906742374607</id>
+    <published>2022-12-10T09:16:42-08:00</published>
+    <updated>2022-12-10T09:16:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-moss"/>
+    <title>Ashtray Set by Seth in Moss</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethinmoss.png?v=1661987040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers.
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle:housewarming</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6906742374607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP21ASHTRAYSET_MOSS</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818031861967</id>
+    <published>2022-12-09T09:27:03-08:00</published>
+    <updated>2022-12-09T09:27:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-sand"/>
+    <title>Ashtray Set by Seth in Sand</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethherosand_f65a4bee-cd10-4b20-ad51-e9de0ce1de36.png?v=1661981299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers. </p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle:starterkit</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: pebble-match-strike</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818031861967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP21ASHTRAYSET_SAND</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7134775967951</id>
+    <published>2022-11-18T08:39:48-08:00</published>
+    <updated>2022-11-18T08:39:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/gloopy-ashtray-by-seth-in-lilac-light-blue"/>
+    <title>Gloopy Ashtray by Seth in Lilac &amp; Light Blue</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.14_GloopyPDPTiles2048-05_37021f00-45d8-4f87-a9e3-2a7c7c42084f.jpg?v=1668794548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new Lilac &amp; Light Blue edition of the Gloopy Ashtray by Seth is available now!<br></p>
+<p><meta charset="utf-8">A limited edition ashtray designed by Seth to be both gloopy and globby.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>gloopy</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: gloopy-ashtray-by-seth-in-blue-orange</s:tag>
+    <s:tag>related: gloopy-ashtray-by-seth-in-brown-yellow</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7134775967951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>HP22_GLOOPASH_LILAQ</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7127536009423</id>
+    <published>2022-11-03T08:38:21-07:00</published>
+    <updated>2022-11-03T08:38:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-by-seth-in-midnight"/>
+    <title>Ashtray Set by Seth in Midnight</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/DSC05768_MidnightonCream_2048.jpg?v=1667489881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Midnight blue with a subtle metallic sheen. The perfect complement to any shelf that’s looking for some compliments. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>Badge Background Color: #032e59</s:tag>
+    <s:tag>Badge Font Color: #f4f1e0</s:tag>
+    <s:tag>Badge: Almost Gone!</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: planter-by-seth</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7127536009423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP22_ASHTRAYSET_MIDNIGHT</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7107985604815</id>
+    <published>2022-10-11T10:57:12-07:00</published>
+    <updated>2022-10-11T10:57:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/gloopy-ashtray-by-seth-in-blue-orange"/>
+    <title>Gloopy Ashtray by Seth in Blue &amp; Orange</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.14_GloopyPDPTiles2048-04.jpg?v=1668710781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new Blue &amp; Orange edition of the Gloopy Ashtray by Seth is available now!<br></p>
+<p><meta charset="utf-8">A limited edition ashtray designed by Seth to be both gloopy and globby.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>gloopy</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: gloopy-ashtray-by-seth-in-brown-yellow</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7107985604815</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>HP22_GLOOPASH_BLORG</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7096488329423</id>
+    <published>2022-09-14T13:04:15-07:00</published>
+    <updated>2022-09-14T13:04:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-rust"/>
+    <title>Ashtray Set by Seth in Rust</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethinrustvariant_20a7b3ec-52e8-4acb-8854-2ac116a5face.png?v=1663011490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Scientifically speaking there are four types of rust. This is the ashtray type. </span></p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: oil-lamp-in-white</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7096488329423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP22_ASHTRAYSET_RUST</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6915067674831</id>
+    <published>2022-08-31T16:54:18-07:00</published>
+    <updated>2022-08-31T16:54:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-river"/>
+    <title>Ashtray Set by Seth in River</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtray_set_by_seth_river.jpg?v=1636677911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers.
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #6e3b75</s:tag>
+    <s:tag>Badge Font Color: #ded9cf</s:tag>
+    <s:tag>Badge: Get Notified</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: planter-by-seth</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6915067674831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP21ASHTRAYSET_RIVERKIT</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7035916681423</id>
+    <published>2022-08-31T16:52:08-07:00</published>
+    <updated>2022-08-31T16:52:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-sage"/>
+    <title>Ashtray Set by Seth in Sage</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethinsage.png?v=1661989922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers. </p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: oil-lamp-in-white</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7035916681423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP22_ASHTRAYSET_SAGE_KIT</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7086245675215</id>
+    <published>2022-08-23T09:55:18-07:00</published>
+    <updated>2022-08-23T09:55:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/gloopy-ashtray-by-seth-in-brown-yellow"/>
+    <title>Gloopy Ashtray by Seth in Brown &amp; Yellow</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.14_GloopyPDPTiles2048-01.jpg?v=1668710801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new Brown &amp; Yellow edition of the Gloopy Ashtray by Seth is available now!<br></p>
+<p><meta charset="utf-8">A limited edition ashtray designed by Seth to be both gloopy and globby.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>Badge Background Color: #8FBDE3</s:tag>
+    <s:tag>Badge Font Color: #0F4526</s:tag>
+    <s:tag>Badge: Going Fast!</s:tag>
+    <s:tag>gloopy</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>Related: glass-and-cork-ashtray</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7086245675215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>HP22_GLOOPASH_BRNYL</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7055612608719</id>
+    <published>2022-06-29T10:11:32-07:00</published>
+    <updated>2022-06-29T10:11:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/gloopy-ashtray-orange-lilac"/>
+    <title>Gloopy Ashtray by Seth in Orange &amp; Lilac</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.14_GloopyPDPTiles2048-02.jpg?v=1668710839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new Orange &amp; Lilac edition of the Gloopy Ashtray by Seth is available now!<br></p>
+<p><meta charset="utf-8">A limited edition ashtray designed by Seth to be both gloopy and globby.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>gloopy</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7055612608719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>HP22_GLOOPYASH_ORGLIL</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7029386313935</id>
+    <published>2022-04-26T09:35:15-07:00</published>
+    <updated>2022-04-26T09:35:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/gloopy-ashtray"/>
+    <title>Gloopy Ashtray by Seth in Blue &amp; Chartreuse</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.11.14_GloopyPDPTiles2048-03.jpg?v=1668710761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">A limited edition ashtray designed by Seth to be both gloopy and globby. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>gloopy</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7029386313935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>HP21_GLOOPYASH_BLCHAR</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+</feed>

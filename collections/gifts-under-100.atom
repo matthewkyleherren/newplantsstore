@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.houseplant.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.houseplant.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.houseplant.com/collections/gifts-under-100.atom"/>
+  <title>HOUSEPLANT</title>
+  <updated>2022-12-23T10:50:27-08:00</updated>
+  <author>
+    <name>HOUSEPLANT</name>
+  </author>
+  <entry>
+    <id>https://www.houseplant.com/products/7121204117711</id>
+    <published>2022-12-23T10:50:27-08:00</published>
+    <updated>2022-12-23T10:50:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/stick-lighter-gift-set"/>
+    <title>Stick Lighter Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.10.14_BundleComps_OrangeRed-05.jpg?v=1666801254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The perfect gift for the person whose friendship means exactly $50 to you.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #ffcb05</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121204117711</id>
+      <title>Blue/Pink</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>HP22_MDGFT_SET_PK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121204117711</id>
+      <title>Orange/Brown</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>HP22_MDGFT_SET_OR</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6906742374607</id>
+    <published>2022-12-10T09:16:42-08:00</published>
+    <updated>2022-12-10T09:16:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-moss"/>
+    <title>Ashtray Set by Seth in Moss</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethinmoss.png?v=1661987040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers.
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle:housewarming</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6906742374607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP21ASHTRAYSET_MOSS</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818031861967</id>
+    <published>2022-12-09T09:27:03-08:00</published>
+    <updated>2022-12-09T09:27:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-sand"/>
+    <title>Ashtray Set by Seth in Sand</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethherosand_f65a4bee-cd10-4b20-ad51-e9de0ce1de36.png?v=1661981299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Seth used his pottery skills to design the perfect ashtray that also comes with a saucer and a matching vase for flowers. </p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>bundle:starterkit</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: pebble-match-strike</s:tag>
+    <s:tag>Related: vinyl-box-set</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818031861967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP21ASHTRAYSET_SAND</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7121201004751</id>
+    <published>2022-10-26T09:19:57-07:00</published>
+    <updated>2022-10-26T09:19:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/fliptop-lighter-gift-set"/>
+    <title>Fliptop Lighter Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/pink_blue.jpg?v=1666806012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The perfect gift for the person whose friendship means exactly $75 to you.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #ffcb05</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121201004751</id>
+      <title>Blue/Pink</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>HP22_LRGFT_SET_PK</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121201004751</id>
+      <title>Orange/Brown</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>HP22_LRGFT_SET_OR</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7121204412623</id>
+    <published>2022-10-26T09:15:01-07:00</published>
+    <updated>2022-10-26T09:15:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/matchbook-gift-set"/>
+    <title>Matchbook Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>HOUSEPLANT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.10.14_BundleComps_OrangeRed-04.jpg?v=1666801242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HOUSEPLANT<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The perfect gift for the person whose friendship means exactly $28 to you.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge Background Color: #2e8700</s:tag>
+    <s:tag>Badge Font Color: #ffcb05</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121204412623</id>
+      <title>Blue/Pink</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>HP22_SMGFT_SET_PK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7121204412623</id>
+      <title>Orange/Brown</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>HP22_SMGFT_SET_OR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7096488329423</id>
+    <published>2022-09-14T13:04:15-07:00</published>
+    <updated>2022-09-14T13:04:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/ashtray-set-by-seth-in-rust"/>
+    <title>Ashtray Set by Seth in Rust</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/ashtraysetbysethinrustvariant_20a7b3ec-52e8-4acb-8854-2ac116a5face.png?v=1663011490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;">Scientifically speaking there are four types of rust. This is the ashtray type. </span></p>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise</s:tag>
+    <s:tag>add-on: large-striking-match-bundle</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>limited_5</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: oil-lamp-in-white</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YBlocklist</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7096488329423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP22_ASHTRAYSET_RUST</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6919040696527</id>
+    <published>2022-08-30T14:39:25-07:00</published>
+    <updated>2022-08-30T14:39:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/houseplant-rolling-papers-tips-bundle-set-of-2-in-pink-turquoise"/>
+    <title>Rolling Papers + Tips</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/22.05.16_RollingPaperComps-02_f3416e1b-408d-4cf8-9dfa-806d2b373f0f.jpg?v=1652915385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff6429;"><strong></strong></span>Our idea of the perfect rolling papers in our idea of the perfect packaging for rolling papers.</p>
+<p>2 Packs Per Order. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle:starterkit</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>related: fliptop-lighter-gift-set</s:tag>
+    <s:tag>related: fliptoplighter</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6919040696527</id>
+      <title>blue/pink</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>HP21_PAPRTIPS_BUNDLE_PNKTRQ</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6919040696527</id>
+      <title>orange/brown</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>HP22_PAPRTIPS_BUNDLE_BROR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7083154899151</id>
+    <published>2022-08-18T13:39:19-07:00</published>
+    <updated>2022-08-18T13:39:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vase-by-seth"/>
+    <title>Vase by Seth</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/vasebysethherobeige2_3c719014-8a8e-4c40-8af3-fa692b4e3229.png?v=1660855141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">It holds flowers and other sorta tall skinny things. </span><span style="font-weight: 400;">It’s a vase. By Seth!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badge: Sold Out</s:tag>
+    <s:tag>bundle:housewarming</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-moss</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: housewarming-essentials</s:tag>
+    <s:tag>related: planter-by-seth</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7083154899151</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>HP22_VASE_NAVY</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7078584320207</id>
+    <published>2022-08-18T09:36:50-07:00</published>
+    <updated>2022-08-18T09:36:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/planter-by-seth"/>
+    <title>Planter by Seth</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/planterbysethherowithdish.png?v=1660169355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">A house for your plants. From Houseplant. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle:housewarming</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>lounge</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: ashtray-set-by-seth-in-sand</s:tag>
+    <s:tag>related: curvy-ashtray</s:tag>
+    <s:tag>related: housewarming-essentials</s:tag>
+    <s:tag>related: vase-by-seth</s:tag>
+    <s:tag>warm</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7078584320207</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>HP22_PLANTER_TAN</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/7043768221903</id>
+    <published>2022-05-24T13:59:59-07:00</published>
+    <updated>2022-05-24T13:59:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/large-striking-match-bundle"/>
+    <title>Large Striking Match 8-Pack</title>
+    <s:type>Office Supplies</s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/strikingmatches.jpg?v=1658936490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong>Office Supplies<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Eight colorful packs of comically large matches. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>indoor</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: accessory-pack-blue</s:tag>
+    <s:tag>related: fliptoplighter</s:tag>
+    <s:tag>related: oil-lamp</s:tag>
+    <s:tag>social</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/7043768221903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>HP21_LGMT_GRN_KIT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818032582863</id>
+    <published>2022-04-26T13:49:55-07:00</published>
+    <updated>2022-04-26T13:49:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/fliptoplighter"/>
+    <title>Fliptop Lighter</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/DSC05418.png?v=1651006222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lighter made by Tsubota that has uniquely bold Houseplant colors and a flame-inspired print.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>add-on: matchbox-set</s:tag>
+    <s:tag>go</s:tag>
+    <s:tag>hidden</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>museum</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: block-table-lighter</s:tag>
+    <s:tag>Related: candle-holder-ashtray</s:tag>
+    <s:tag>related: car-lighter</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>split_variant</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818032582863</id>
+      <title>Blue/Pink</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HP21_TSU_LTR_BLU_KIT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818032582863</id>
+      <title>Orange/Red</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HP21_TSU_LTR_OR_KIT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818032582863</id>
+      <title>Light Green/Dark Green</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HP21_TSU_LTR_GRN_KIT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818031960271</id>
+    <published>2021-11-16T11:05:08-08:00</published>
+    <updated>2021-11-16T11:05:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/vinyl-box-set"/>
+    <title>Vinyl Box Set Vol. 1</title>
+    <s:type></s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/VinylBoxSetVol.1HERO_1.png?v=1647924418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 vinyl records, each a unique playlist curated by Seth and Evan to pair different strains with the perfect mood.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cool</s:tag>
+    <s:tag>indoor</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>music</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>not-sure</s:tag>
+    <s:tag>related: houseplant-pro-ject-hpt1-phono-bt-record-player</s:tag>
+    <s:tag>related: oil-lamp</s:tag>
+    <s:tag>related: pebble-match-strike</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>warm</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818031960271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>HP20_VNYL_BX_ST</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.houseplant.com/products/6818032550095</id>
+    <published>2021-08-24T12:37:07-07:00</published>
+    <updated>2021-08-24T12:37:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.houseplant.com/products/matchbox-set"/>
+    <title>Matchbox Set</title>
+    <s:type>Hardware</s:type>
+    <s:vendor>Houseplant commerce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0588/0070/1647/products/DSC05587_BYH.png?v=1647924246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Houseplant commerce<br>
+        <strong>Type: </strong>Hardware<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One colorful matchbox is good...ten are better.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ground</s:tag>
+    <s:tag>import_2021_08_24_193428</s:tag>
+    <s:tag>lounge</s:tag>
+    <s:tag>movie</s:tag>
+    <s:tag>new_collection</s:tag>
+    <s:tag>outdoor</s:tag>
+    <s:tag>related: fliptoplighter</s:tag>
+    <s:tag>related: large-striking-match-bundle</s:tag>
+    <s:tag>related: ridge-ashtray</s:tag>
+    <s:tag>social</s:tag>
+    <s:tag>Uncategorized</s:tag>
+    <s:tag>YCRF_launch</s:tag>
+    <s:variant>
+      <id>https://www.houseplant.com/products/6818032550095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>HP21_MTBX_SET</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

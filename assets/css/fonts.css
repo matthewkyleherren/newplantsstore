@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Everett';
+    src: url('https://uploads-ssl.webflow.com/6306fba67be473067560d79b/630aa6fa8e18aa5a517c4836_Everett-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: auto;
+  }
+  
+  @font-face {
+    font-family: 'Everett';
+    src: url('https://uploads-ssl.webflow.com/6306fba67be473067560d79b/630aa6fa3591b547d1739b37_Everett-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: auto;
+  }
+  
+  @font-face {
+    font-family: 'Everett';
+    src: url('https://uploads-ssl.webflow.com/6306fba67be473067560d79b/630aa6fa94ecc46c1735f155_Everett-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+  }
